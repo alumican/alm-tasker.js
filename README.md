@@ -170,4 +170,4 @@ tasker.dispose(task);
 ```
 
 ### ドキュメント
-[APIリファレンス](https://alumican.github.io/tasker.js/doc/)
+[APIリファレンス](https://alumican.github.io/alm-tasker.js/doc/)
